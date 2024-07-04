@@ -1,0 +1,1 @@
+This repository aims at imputing the serologic datasets with application in IBD research. We already have created datasets with missingness (Data_with_missingness.zip) from our original dataset (Original_dataset.csv) which encompasses all possible forms of missingness: MAR, MCAR, MNAR. 
